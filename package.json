@@ -1,0 +1,30 @@
+{
+  "name": "mindscript",
+  "version": "1.0.0",
+  "description": "A simple and lightweight library for making AI-Based chatbots.",
+  "main": "mind.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindlearn/mindscript.git"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "ia",
+    "mind",
+    "mindscript",
+    "ai-based"
+  ],
+  "author": "MindLearn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindlearn/mindscript/issues"
+  },
+  "homepage": "https://github.com/mindlearn/mindscript#readme"
+}
