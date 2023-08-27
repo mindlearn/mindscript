@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": ["hi"],
+    "response": ["Hello!"]
+  },
+  {
+    "id": 2,
+    "question": ["how", "are", "you"],
+    "response": ["I'm fine, thank you!"]
+  },
+  {
+    "id": 3,
+    "question": ["name"],
+    "response": ["I'm just a bot."]
+  }
+]
